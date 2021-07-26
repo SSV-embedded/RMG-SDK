@@ -140,8 +140,8 @@ root@emblinux:/tmp#
 3) Open a new Git-Bash via "Terminal" -> "New" and start a SSH connection.
 ```
 mha@mhaw10 MINGW64 /d/work/docker/RMG-SDK/Python_CAN_samples/example2 (main)
-$ ssh root@192.168.2.56
-root@192.168.2.56's password: 
+$ ssh root@192.168.0.126
+root@192.168.0.126's password: 
 root@emblinux:~#
 ```
 
